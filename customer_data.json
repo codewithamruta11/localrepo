@@ -1,0 +1,92 @@
+[
+  {
+    "CustomerID": 1,
+    "FirstName": "Amruta",
+    "LastName": "Gavade",
+    "Email": "amruta.gavade@example.com",
+    "Phone": "9876543210",
+    "City": "Pune",
+    "Country": "India"
+  },
+  {
+    "CustomerID": 2,
+    "FirstName": "Ramesh",
+    "LastName": "Patil",
+    "Email": "ramesh.patil@example.com",
+    "Phone": "9822334455",
+    "City": "Mumbai",
+    "Country": "India"
+  },
+  {
+    "CustomerID": 3,
+    "FirstName": "Nagarjuna",
+    "LastName": "Rao",
+    "Email": "nagarjuna.rao@example.com",
+    "Phone": "9900123456",
+    "City": "Hyderabad",
+    "Country": "India"
+  },
+  {
+    "CustomerID": 4,
+    "FirstName": "Priya",
+    "LastName": "Sharma",
+    "Email": "priya.sharma@example.com",
+    "Phone": "9123456780",
+    "City": "Delhi",
+    "Country": "India"
+  },
+  {
+    "CustomerID": 5,
+    "FirstName": "Rahul",
+    "LastName": "Desai",
+    "Email": "rahul.desai@example.com",
+    "Phone": "9865321478",
+    "City": "Bangalore",
+    "Country": "India"
+  },
+  {
+    "CustomerID": 6,
+    "FirstName": "Sneha",
+    "LastName": "Kulkarni",
+    "Email": "sneha.kulkarni@example.com",
+    "Phone": "9876523410",
+    "City": "Nagpur",
+    "Country": "India"
+  },
+  {
+    "CustomerID": 7,
+    "FirstName": "Suresh",
+    "LastName": "Naik",
+    "Email": "suresh.naik@example.com",
+    "Phone": "9812345670",
+    "City": "Goa",
+    "Country": "India"
+  },
+  {
+    "CustomerID": 8,
+    "FirstName": "Meena",
+    "LastName": "Reddy",
+    "Email": "meena.reddy@example.com",
+    "Phone": "9090909090",
+    "City": "Chennai",
+    "Country": "India"
+  },
+  {
+    "CustomerID": 9,
+    "FirstName": "Arjun",
+    "LastName": "Singh",
+    "Email": "arjun.singh@example.com",
+    "Phone": "9977665544",
+    "City": "Kolkata",
+    "Country": "India"
+  },
+  {
+    "CustomerID": 10,
+    "FirstName": "Komal",
+    "LastName": "Jadhav",
+    "Email": "komal.jadhav@example.com",
+    "Phone": "9543217890",
+    "City": "Aurangabad",
+    "Country": "India"
+  }
+]
